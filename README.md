@@ -1,5 +1,4 @@
 ## I'm a QA Engineer
-## A creator of "Artsiom Rusau QA Life" Youtube channel 
 ## My CV
 [Link to my CV](https://docs.google.com/document/d/1Zz5ZU-kIpOwaNzl3GTAgdshUitluyzEtbPxVW22iv2M/edit?usp=sharing)
 
