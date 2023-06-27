@@ -4,9 +4,9 @@
 [Link to my CV](https://docs.google.com/document/d/1Zz5ZU-kIpOwaNzl3GTAgdshUitluyzEtbPxVW22iv2M/edit?usp=sharing)
 
 ### Testing Documentation
-[Checklist](https://docs.google.com/spreadsheets/d/1lqVbf9dEKf5WJ4Yvx_C33GgQGCnH-4_UTOqNixRIWUg/edit?usp=sharing)
-[Test-cases](https://docs.google.com/spreadsheets/d/1Z0Gm-vV-gAnFHsOUf6x5aclWytFU6QQyvwQtFx9Qw6w/edit?usp=sharing)
-[Bug-reports](https://docs.google.com/spreadsheets/d/1h82q6DLmvtWh5eSznaTMmNOcs7so3TUa22FboqPWayo/edit?usp=sharing)
+* [Checklist](https://docs.google.com/spreadsheets/d/1lqVbf9dEKf5WJ4Yvx_C33GgQGCnH-4_UTOqNixRIWUg/edit?usp=sharing)
+* [Test-cases](https://docs.google.com/spreadsheets/d/1Z0Gm-vV-gAnFHsOUf6x5aclWytFU6QQyvwQtFx9Qw6w/edit?usp=sharing)
+* [Bug-reports](https://docs.google.com/spreadsheets/d/1h82q6DLmvtWh5eSznaTMmNOcs7so3TUa22FboqPWayo/edit?usp=sharing)
 <!--
 **Megalapka/Megalapka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
