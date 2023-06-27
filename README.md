@@ -1,5 +1,12 @@
-### Hi there 👋
+## I'm a QA Engineer
+## A creator of "Artsiom Rusau QA Life" Youtube channel 
+## My CV
+[Link to my CV](https://docs.google.com/document/d/1Zz5ZU-kIpOwaNzl3GTAgdshUitluyzEtbPxVW22iv2M/edit?usp=sharing)
 
+### Testing Documentation
+[Checklist](https://docs.google.com/spreadsheets/d/1lqVbf9dEKf5WJ4Yvx_C33GgQGCnH-4_UTOqNixRIWUg/edit?usp=sharing)
+[Test-cases](https://docs.google.com/spreadsheets/d/1Z0Gm-vV-gAnFHsOUf6x5aclWytFU6QQyvwQtFx9Qw6w/edit?usp=sharing)
+[Bug-reports](https://docs.google.com/spreadsheets/d/1h82q6DLmvtWh5eSznaTMmNOcs7so3TUa22FboqPWayo/edit?usp=sharing)
 <!--
 **Megalapka/Megalapka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+1. Перенести документацию в github
+2. Поискать еще странички на github для лучшего оформления 
 -->
